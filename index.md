@@ -6,7 +6,7 @@
 		
 		* [YouTube] (https://www.youtube.com/channel/UCaehNA-XnV-SZmwKKpmruWg/)
 		* [Twitter] (https://twitter.com/StDiabloGames) 
-		* [Email] (StDiabloGames@gmail.com)
+		* Email: _StDiabloGames@gmail.com_
 		* More links and info to come!
 	</body>
 </html>
